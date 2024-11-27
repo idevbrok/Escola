@@ -1,0 +1,11 @@
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\bin\Debug\net8.0\Escola.Dominio.deps.json
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\bin\Debug\net8.0\Escola.Dominio.dll
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\bin\Debug\net8.0\Escola.Dominio.pdb
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.AssemblyInfo.cs
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.dll
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\refint\Escola.Dominio.dll
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\Escola.Dominio.pdb
+C:\Users\Ricardo\Documents\Escola\Escola.Dominio\obj\Debug\net8.0\ref\Escola.Dominio.dll
